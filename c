@@ -215,7 +215,7 @@ http://210.210.155.35/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/
 #EXTINF:-1 tvg-id="tvOne" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" ,TV ONE
 http://210.210.155.35/session/f5cd353c-0131-11ec-b286-abca8519aa62/qwr9ew/s/s105/01.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" ,ANTV HD  
+#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png" ,ANTV HD  
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 
 #EXTINF:-1 tvg-id="RCTV" tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" , RCTI
