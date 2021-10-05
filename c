@@ -259,4 +259,3 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 #EXTINF:-1 tvg-id="822" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" ,Golf Channel HD
 http://210.210.155.35/dr9445/h/h10/01.m3u8
-
